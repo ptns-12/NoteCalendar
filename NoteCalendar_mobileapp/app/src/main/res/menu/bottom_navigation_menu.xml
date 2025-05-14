@@ -2,15 +2,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_calendar"
-        android:icon="@drawable/calender_svg"
+        android:icon="@drawable/calendaricon"
         android:title="Calenders" />
     <item
-        android:id="@+id/nav_note"
-        android:icon="@drawable/note_svg"
+        android:id="@+id/nav_notes"
+        android:icon="@drawable/notesicon"
         android:title="Notes" />
 
     <item
-        android:id="@+id/nav_user"
-        android:icon="@drawable/user_svg"
-        android:title="User" />
+        android:id="@+id/nav_done"
+        android:icon="@drawable/doneicon"
+        android:title="Done" />
 </menu>
